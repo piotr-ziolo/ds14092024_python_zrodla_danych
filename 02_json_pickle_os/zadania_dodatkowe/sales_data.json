@@ -1,0 +1,39 @@
+{
+  "sales": [
+    {
+      "product_id": 1,
+      "name": "Laptop",
+      "category": "Electronics",
+      "price": 1200,
+      "units_sold": 30
+    },
+    {
+      "product_id": 2,
+      "name": "Headphones",
+      "category": "Electronics",
+      "price": 150,
+      "units_sold": 200
+    },
+    {
+      "product_id": 3,
+      "name": "Coffee Maker",
+      "category": "Home Appliances",
+      "price": 100,
+      "units_sold": 80
+    },
+    {
+      "product_id": 4,
+      "name": "Book",
+      "category": "Books",
+      "price": 20,
+      "units_sold": 500
+    },
+    {
+      "product_id": 5,
+      "name": "Desk Lamp",
+      "category": "Furniture",
+      "price": 35,
+      "units_sold": 150
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+To jest przykładowy plik tekstowy.
+Zawiera kilka wierszy tekstu.
+Każdy wiersz może mieć różną długość.

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Marcin Kwiatkowski",
+    "department": "Logistics",
+    "years_of_service": 1
+  },
+  {
+    "name": "Joanna Zawadzka",
+    "department": "IT",
+    "years_of_service": 4
+  },
+  {
+    "name": "Robert Majewski",
+    "department": "HR",
+    "years_of_service": 2
+  }
+]

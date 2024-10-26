@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "name": "Jan Kowalski",
+      "department": "HR",
+      "years_of_service": 5
+    },
+    {
+      "name": "Anna Nowak",
+      "department": "IT",
+      "years_of_service": 3
+    },
+    {
+      "name": "Piotr Wiśniewski",
+      "department": "Finance",
+      "years_of_service": 7
+    },
+    {
+      "name": "Katarzyna Wójcik",
+      "department": "IT",
+      "years_of_service": 6
+    },
+    {
+      "name": "Tomasz Lewandowski",
+      "department": "Marketing",
+      "years_of_service": 2
+    }
+  ]
+}

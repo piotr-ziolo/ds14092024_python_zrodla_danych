@@ -1,0 +1,5 @@
+This text file contains several lines of text. Each line varies in length and content.
+
+You can use this file to practice reading, writing, and manipulating text using Python's file handling functions.
+
+Happy coding!
