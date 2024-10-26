@@ -1,0 +1,11 @@
+pliki
+strony internetowe
+bazy danych
+
+Klasyfikacja ze względu na lokalizację:
+- lokalne
+- zdalne
+
+Klasyfikacja ze względu na strukturę:
+- ustrukturyzowane
+- nieustrukturyzowane
