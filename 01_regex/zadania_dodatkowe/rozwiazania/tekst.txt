@@ -1,0 +1,11 @@
+Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data. Python is widely used in data science for data analysis, machine learning, and artificial intelligence.
+
+In 2023, the global data science market size was valued at USD 3.93 billion and is expected to expand at a compound annual growth rate (CAGR) of 26.9% from 2024 to 2030. Email: john.doe@example.com
+
+Python's simple syntax makes it easy to learn and use, while its powerful libraries and frameworks make it ideal for complex data analysis. (123) 456-7890
+
+Key concepts in data science include statistics, data mining, machine learning, and data visualization. The Python language offers numerous libraries such as NumPy, pandas, and Matplotlib that make these tasks easier.
+
+For more information, visit our website: https://www.datascience.com. You can also contact us at info@datascience.com.
+
+08-06-2024 Warsaw
